@@ -1,0 +1,13 @@
+label {
+  width: 70px;
+  display: inline-block;
+}
+
+div {
+  margin: 5px;
+}
+
+#fullName {
+  border: 2px solid red;
+  border-radius: 5px;
+}
